@@ -10,3 +10,10 @@ Sublime 3
     }
 
 "color_scheme": "Packages/Theme - Farzher/WebDeveloperClassic.tmTheme"
+
+
+Plagins
+==========
+
+* Emmet
+* Less
